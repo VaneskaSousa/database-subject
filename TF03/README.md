@@ -24,4 +24,5 @@ Abaixo constam as imagens e links dos arquivos editáveis dos trabalhos TF03:
 
 * **Etapa 02 (TF03_P2_2)**
 > [arquivo editavél aqui](https://github.com/VaneskaSousa/database_subject_ufc/blob/main/TF03/TF03_P2_2.drawio)
+
 ![](https://github.com/VaneskaSousa/database_subject_ufc/blob/main/TF03/TF03_P2_2.jpg)
